@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Sanjana 👋
 
-<!--
-**sanjanasu2007-dev/sanjanasu2007-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate learner and developer who enjoys building projects, exploring new technologies, and improving my skills.
 
-Here are some ideas to get you started:
+## 🌱 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍💻 I'm currently learning and developing my technical skills.
+- 🔭 I'm working on personal and academic projects.
+- 🌱 I'm always interested in learning new technologies.
+- 💡 I enjoy solving problems and creating useful applications.
+- 📫 Feel free to connect with me!
+
+## 🛠️ Skills & Technologies
+
+- **Languages:** Python, Java, JavaScript
+- **Web:** HTML, CSS, JavaScript
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code
+- **Currently Learning:** [Add technology here]
+
+## 🚀 Projects
+
+### 📌 Project 1
+**[Project Name]**  
+Brief description of your project and what you built.
+
+### 📌 Project 2
+**[Project Name]**  
+Brief description of your project, technologies used, and what you learned.
+
+### 📌 Project 3
+**[Project Name]**  
+Brief description of the project and its main features.
+
+## 📊 GitHub Stats
+
+![Sanjana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
+- 📧 Email: [Your Email](mailto:YOUR_EMAIL)
+- 🌐 Portfolio: [Your Portfolio](YOUR_PORTFOLIO_URL)
+
+---
+
+⭐ **Thanks for visiting my profile!**
